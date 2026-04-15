@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AHHHHHHH AHHHHA!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+
+<a href="">
   <img height="50" src="https://media.tenor.com/7Ii9kd7qpigAAAAi/zazaglorp-glorp.gif"/>
+</a>
+
+<a href="">
+  <img height="https://media1.tenor.com/m/jc_2x-s8wUQAAAAC/charborg-hiiiiii.gif"/>
 </a>
